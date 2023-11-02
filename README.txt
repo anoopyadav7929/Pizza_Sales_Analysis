@@ -5,7 +5,8 @@ So i have uploaded all files of the complete project.
 
 pizza_sales_data.csv:-  This file contains the primary dataset, which I preprocessed using Python for tasks such as date manipulation and string formatting.
 
-pizza_sales_PowerBI.pbix:-  This interactive Power BI file is the heart of the project, featuring a variety of visualizations, key performance indicators (KPIs), and comprehensive insights into various aspects of the data.
+pizza_sales_PowerBI.pbix:-  This interactive Power BI file is the heart of the project, featuring a variety of visualizations, key performance indicators (KPIs),
+                            and comprehensive insights into various aspects of the data.
 
 Report.docx:-  In this Word document, you'll find an introductory overview of the project, prerequisites for running it, a list of tools used, and other essential information.
 
