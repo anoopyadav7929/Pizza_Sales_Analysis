@@ -1,3 +1,4 @@
+Project :- Pizza Sales Data analysis and visualization
 I created this project to show my skills in Power bi for visulization and Mysql for using relational databases.
 
 So i have uploaded all files of the complete project.
