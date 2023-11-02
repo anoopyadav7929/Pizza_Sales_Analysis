@@ -8,7 +8,7 @@ So i have uploaded all files of the complete project.
 
 2. pizza_sales_PowerBI.pbix:-  This interactive Power BI file is the heart of the project, featuring a variety of visualizations, key performance indicators (KPIs), and comprehensive insights into various aspects of the data.
 
-3. Report.docx:-  In this Word document, you'll find an introductory overview of the project, prerequisites for running it, a list of tools used, and other essential information.
+3. Report.docx:-  In this Word document, you'll find an introductory overview of the project, prerequisites for running it, a list of tools used,  and other essential information and at last , SnapShot of Power Bi Dashboard for overview.
 
 4. Sales_report_with_MySQL.docx:-  This document provides detailed insights into the SQL queries used throughout the project, complete with images of the query outputs.
 
