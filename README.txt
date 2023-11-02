@@ -3,6 +3,8 @@ I created this project to show my skills in Power bi for visulization and Mysql 
 
 So i have uploaded all files of the complete project.
 
+Also the file is uploaded in Drive - https://drive.google.com/drive/u/0/folders/16jILlcLi-vSpRqSNK3yVBR6-82ZuDq22
+
 
 1. pizza_sales_data.csv:-  This file contains the primary dataset, which I preprocessed using Python for tasks such as date manipulation and string formatting.
 
