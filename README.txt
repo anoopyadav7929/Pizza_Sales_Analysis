@@ -8,7 +8,7 @@ Also the file is uploaded in Drive - https://drive.google.com/drive/u/0/folders/
 
 1. pizza_sales_data.csv:-  This file contains the primary dataset, which I preprocessed using Python for tasks such as date manipulation and string formatting. View data - https://1drv.ms/x/s!AtpsnM6_VxvMhxRsR4OO_yYUc6pe?e=gqMjV9
 
-2. pizza_sales_PowerBI.pbix:-  This interactive Power BI file is the heart of the project, featuring a variety of visualizations, key performance indicators (KPIs), and comprehensive insights into various aspects of the data.
+2. pizza_sales_PowerBI.pbix:-  This interactive Power BI file is the heart of the project, featuring a variety of visualizations, key performance indicators (KPIs), and comprehensive insights into various aspects of the data. ##View In Report.docx or In PowerBI
 
 3. Report.docx:-  In this Word document, you'll find an introductory overview of the project, prerequisites for running it, a list of tools used,  and other essential information and at last , SnapShot of Power Bi Dashboard for overview. View link - https://onedrive.live.com/view.aspx?resid=CC1B57BFCE9C6CDA!911&ithint=file%2cdocx&wdo=2&authkey=!ABpp0K4DY__O1Kw
 
